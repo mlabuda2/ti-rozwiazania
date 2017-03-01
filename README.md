@@ -5,21 +5,3 @@
 ...
 
 
-{
-  "type": "FeatureCollection",
-  "features": [
-    { 
-      "type" : "Feature", 
-      "geometry" : { 
-        "type" : "Point", 
-        "coordinates" : [ 18.57327, 54.39591 ] 
-      }, 
-      "properties" : { 
-        "title" : "Instytut Informatyki, UG", 
-        "description" : "building", 
-        "marker-size" : "medium", 
-        "marker-symbol" : "building" 
-      } 
-    }
-  ]
-}
