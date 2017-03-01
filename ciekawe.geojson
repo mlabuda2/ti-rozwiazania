@@ -5,7 +5,7 @@
       "type" : "Feature", 
       "geometry" : { 
         "type" : "Point", 
-        "coordinates" : [ 18.57327, 54.39591 ] 
+        "coordinates" : [ 53.46323, -2.29128 ] 
       }, 
       "properties" : { 
         "title" : "Instytut Informatyki, UG", 
@@ -16,3 +16,4 @@
     }
   ]
 }
+53.463231, -2.291286
