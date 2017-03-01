@@ -5,7 +5,7 @@
       "type" : "Feature", 
       "geometry" : { 
         "type" : "Point", 
-        "coordinates" : [ 53.46323, -2.29128 ] 
+        "coordinates" : [ -2.29128, 53.46323 ] 
       }, 
       "properties" : { 
         "title" : "OLD TRAFFORD", 
